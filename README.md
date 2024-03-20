@@ -1,3 +1,5 @@
+[繁體中文](https://github.com/nperovic/SystemThemeAwareToolTip/blob/main/README.md#systemthemeawaretooltip-1) | [Српски](#systemthemeawaretooltip-2)
+---
 # SystemThemeAwareToolTip
 - Make your `ToolTip` style conform to the current system theme (dark/ light mode, rounded corners on Win 11).  
 - Simply include this Class in your script, no need to create an instance.
